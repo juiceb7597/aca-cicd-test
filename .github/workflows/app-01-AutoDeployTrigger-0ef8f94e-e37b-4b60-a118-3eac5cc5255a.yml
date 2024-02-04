@@ -8,9 +8,9 @@ on:
       [ main ]
     paths:
     - '**'
-    - '.github/workflows/app-01-AutoDeployTrigger-0bd8ab19-296a-4c8e-8f25-83664ed83629.yml'
+    - '.github/workflows/app-01-AutoDeployTrigger-0ef8f94e-e37b-4b60-a118-3eac5cc5255a.yml'
 
-  # Allow manual trigger 
+  # Allow manual trigger test modified
   workflow_dispatch:      
 
 jobs:
